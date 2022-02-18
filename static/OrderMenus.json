@@ -1,0 +1,1090 @@
+[
+  {
+    "Name": "ORZID GMENU ABX COVID-19 ANTIBODIES",
+    "contents": [
+      {
+        "Row": 1,
+        "Column": 1,
+        "Item": "ORZID GMENU ER/UC ABX GENERAL INFORMATION ED",
+        "Text": "Select here for help, legend, consults, alternative antimicrobials and more (ED)",
+        "Header": 0
+      },
+      {
+        "Row": 9,
+        "Column": 1,
+        "Item": "ORZ GTX ABX URL MINNEAPOLIS COVID SHAREPOINT SITE",
+        "Text": "[Link] COVID-19 SharePoint Site",
+        "Header": 0
+      },
+      {
+        "Row": 7,
+        "Column": 1,
+        "Item": null,
+        "Text": "site for inclusion/exclusion criteria, supportive care and additional ",
+        "Header": 0
+      },
+      {
+        "Row": 8,
+        "Column": 1,
+        "Item": null,
+        "Text": "information.",
+        "Header": 0
+      },
+      {
+        "Row": 15,
+        "Column": 1,
+        "Item": null,
+        "Text": "_______________________________________________________________________________ ",
+        "Header": 1
+      },
+      {
+        "Row": 2,
+        "Column": 1,
+        "Item": "ORZ GTX ABX ON-CALL SCHEDULE",
+        "Text": "[Link] Minneapolis On-Call Schedule-Infectious Disease",
+        "Header": 0
+      },
+      {
+        "Row": 6,
+        "Column": 1,
+        "Item": null,
+        "Text": "Refer to the Pharmacologic Treatment Guidance on the COVID-19 SharePoint",
+        "Header": 0
+      },
+      {
+        "Row": 11,
+        "Column": 1,
+        "Item": null,
+        "Text": "***COVID-19 therapy is a rapidly evolving field, including the widespread ",
+        "Header": 1
+      },
+      {
+        "Row": 12,
+        "Column": 1,
+        "Item": null,
+        "Text": "dissemination of therapies with little or no evidence for benefit. Therapies",
+        "Header": 1
+      },
+      {
+        "Row": 13,
+        "Column": 1,
+        "Item": null,
+        "Text": "and dosages not specifically listed here or on the NIH clinical guidelines",
+        "Header": 1
+      },
+      {
+        "Row": 14,
+        "Column": 1,
+        "Item": null,
+        "Text": "should be discussed with the infectious diseases service.***",
+        "Header": 1
+      },
+      {
+        "Row": 31,
+        "Column": 1,
+        "Item": "ORZID2 GMENU ABX SOTROVIMAB EUA",
+        "Text": "Sotrovimab (EUA) [may be ordered by ED/ID]",
+        "Header": 0
+      },
+      {
+        "Row": 23,
+        "Column": 1,
+        "Item": null,
+        "Text": "Outpatients who are Priority 1 for Monoclonal Antibody Treatment: ",
+        "Header": 1
+      },
+      {
+        "Row": 24,
+        "Column": 1,
+        "Item": null,
+        "Text": "*Unvaccinated OR partially vaccinated OR vaccinated veterans not expected to",
+        "Header": 0
+      },
+      {
+        "Row": 25,
+        "Column": 1,
+        "Item": null,
+        "Text": "mount an immune response <AND>",
+        "Header": 0
+      },
+      {
+        "Row": 26,
+        "Column": 1,
+        "Item": null,
+        "Text": "*Tested positive for COVID-19 <AND> ",
+        "Header": 0
+      },
+      {
+        "Row": 27,
+        "Column": 1,
+        "Item": null,
+        "Text": "*Within 5 days of (mild to moderate) symptom onset <AND>",
+        "Header": 0
+      },
+      {
+        "Row": 30,
+        "Column": 1,
+        "Item": null,
+        "Text": "If patient meets all of the above criteria: ",
+        "Header": 0
+      },
+      {
+        "Row": 34,
+        "Column": 1,
+        "Item": null,
+        "Text": "MONOCLONAL ANTIBODY SCREENING SCORE-BIPOC+PREGNANT (MASSBP) ",
+        "Header": 1
+      },
+      {
+        "Row": 28,
+        "Column": 1,
+        "Item": null,
+        "Text": "*MASSBP score > 4 (see point system at bottom of menu)",
+        "Header": 0
+      },
+      {
+        "Row": 32,
+        "Column": 1,
+        "Item": null,
+        "Text": "____________________________________________________________________________",
+        "Header": 1
+      },
+      {
+        "Row": 17,
+        "Column": 1,
+        "Item": null,
+        "Text": "POSSIBLY BENEFICIAL THERAPIES - AVAILABLE BY EMERGENCY USE AUTHORIZATION (EUA)",
+        "Header": 1
+      },
+      { "Row": 44, "Column": 1, "Item": null, "Text": "Total:", "Header": 0 },
+      {
+        "Row": 46,
+        "Column": 1,
+        "Item": null,
+        "Text": ">>MASSBP equals total of points for each of patient's conditions above",
+        "Header": 0
+      },
+      {
+        "Row": 35,
+        "Column": 1,
+        "Item": null,
+        "Text": "o Age greater than 65:2 points",
+        "Header": 0
+      },
+      {
+        "Row": 36,
+        "Column": 1,
+        "Item": null,
+        "Text": "o BMI greater than 35:2 points",
+        "Header": 0
+      },
+      {
+        "Row": 37,
+        "Column": 1,
+        "Item": null,
+        "Text": "o Diabetes mellitus: 2 points ",
+        "Header": 0
+      },
+      {
+        "Row": 38,
+        "Column": 1,
+        "Item": null,
+        "Text": "o Cardiovascular disease over the age of 55: 1 point",
+        "Header": 0
+      },
+      {
+        "Row": 39,
+        "Column": 1,
+        "Item": null,
+        "Text": "o Immunocompromised status:4 points ",
+        "Header": 0
+      },
+      {
+        "Row": 40,
+        "Column": 1,
+        "Item": null,
+        "Text": "o BIPOC status:2 points ",
+        "Header": 0
+      },
+      {
+        "Row": 41,
+        "Column": 1,
+        "Item": null,
+        "Text": "o Pregnancy:4 points",
+        "Header": 0
+      },
+      {
+        "Row": 42,
+        "Column": 1,
+        "Item": null,
+        "Text": "o Chronic kidney disease: 3 points",
+        "Header": 0
+      },
+      {
+        "Row": 43,
+        "Column": 1,
+        "Item": null,
+        "Text": "____________________________________________________",
+        "Header": 0
+      },
+      {
+        "Row": 21,
+        "Column": 1,
+        "Item": "ORZ GTX ABX COVID-19 MONOCLONAL ANTIBODY SOP",
+        "Text": "Monoclonal Antibody Allocation SOP",
+        "Header": 0
+      },
+      {
+        "Row": 19,
+        "Column": 1,
+        "Item": null,
+        "Text": "For more information on prioritization of COVID-19 monoclonal antibodies",
+        "Header": 0
+      },
+      {
+        "Row": 20,
+        "Column": 1,
+        "Item": null,
+        "Text": "for treatment due to supply constraints:",
+        "Header": 0
+      },
+      {
+        "Row": 4,
+        "Column": 1,
+        "Item": null,
+        "Text": "MPLS ED COVID-19 MONOCLONAL ANTIBODY PHARMACOLOGIC RECOMMENDATIONS",
+        "Header": 1
+      }
+    ]
+  },
+
+  {
+    "Name": "ORZID GMENU ABX GENRL ALT AM LIST",
+    "contents": [
+      {
+        "Row": 4,
+        "Column": 1,
+        "Item": "PSJIZID ALT ACYCLOVIR 500MG IV BID",
+        "Text": "Acyclovir IV",
+        "Header": 0
+      },
+      {
+        "Row": 5,
+        "Column": 1,
+        "Item": "PSJZID ALT ACYCLOVIR 800MG PO TID",
+        "Text": "Acyclovir PO",
+        "Header": 0
+      },
+      {
+        "Row": 6,
+        "Column": 1,
+        "Item": "PSJIZID ALT AMIKACIN 250MG IV QDAY",
+        "Text": "Amikacin IV",
+        "Header": 0
+      },
+      {
+        "Row": 7,
+        "Column": 1,
+        "Item": "PSJZID ALT AMOXICILLIN 500MG PO TID",
+        "Text": "Amoxicillin PO",
+        "Header": 0
+      },
+      {
+        "Row": 8,
+        "Column": 1,
+        "Item": "PSJZID ALT AMOXICILLIN-CLAVULANATE 875MG PO BID",
+        "Text": "Amoxicillin-clavulanate PO",
+        "Header": 0
+      },
+      {
+        "Row": 9,
+        "Column": 1,
+        "Item": "ORZ SET ABX ALT AMPHOTERICIN LIPOSOMAL+FLUID+FLUSH ORDERS",
+        "Text": "Amphotericin B Liposomal (Ambisome)",
+        "Header": 0
+      },
+      {
+        "Row": 10,
+        "Column": 1,
+        "Item": "PSJIZID ALT AMPICILLIN 2GM IV Q6H",
+        "Text": "Ampicillin IV",
+        "Header": 0
+      },
+      {
+        "Row": 11,
+        "Column": 1,
+        "Item": "PSJIZID ALT AMPICILLIN-SULBACTAM 3GM IV Q6H",
+        "Text": "Ampicillin-sulbactam IV",
+        "Header": 0
+      },
+      {
+        "Row": 12,
+        "Column": 1,
+        "Item": "PSJZID ALT ATOVAQUONE SUSP 750MG PO BID",
+        "Text": "Atovaquone PO",
+        "Header": 0
+      },
+      {
+        "Row": 13,
+        "Column": 1,
+        "Item": "PSJIZID ALT AZITHROMYCIN 500MG ONCE THEN 250MG QD 4DS",
+        "Text": "Azithromycin IV",
+        "Header": 0
+      },
+      {
+        "Row": 14,
+        "Column": 1,
+        "Item": "PSJZID ALT AZITHROMYCIN 500MG PO ONCE THEN 250 QD 4DS",
+        "Text": "Azithromycin PO",
+        "Header": 0
+      },
+      {
+        "Row": 15,
+        "Column": 1,
+        "Item": "PSJIZID ALT AZTREONAM 2GM IV Q8H",
+        "Text": "Aztreonam IV",
+        "Header": 0
+      },
+      {
+        "Row": 16,
+        "Column": 1,
+        "Item": "PSJIZID ALT BENZATHINE PENICILLIN 1.2MU IM ONCE",
+        "Text": "Benzathine Penicillin IM",
+        "Header": 0
+      },
+      {
+        "Row": 17,
+        "Column": 1,
+        "Item": "PSJZID ALT CEFADROXIL 500MG PO Q12H",
+        "Text": "Cefadroxil PO",
+        "Header": 0
+      },
+      {
+        "Row": 18,
+        "Column": 1,
+        "Item": "PSJIZID ALT CEFAZOLIN 2GM IV Q8H",
+        "Text": "Cefazolin IV",
+        "Header": 0
+      },
+      {
+        "Row": 19,
+        "Column": 1,
+        "Item": "PSJZID CEFDINIR 300MG PO Q12H",
+        "Text": "Cefdinir PO",
+        "Header": 0
+      },
+      {
+        "Row": 20,
+        "Column": 1,
+        "Item": "PSJIZID ALT CEFEPIME 2GM IV Q8H",
+        "Text": "Cefepime IV",
+        "Header": 0
+      },
+      {
+        "Row": 21,
+        "Column": 1,
+        "Item": "PSJIZID ALT CEFOTETAN IV 2GM Q12H",
+        "Text": "Cefotetan IV",
+        "Header": 0
+      },
+      {
+        "Row": 22,
+        "Column": 1,
+        "Item": "PSJIZID ALT CEFOXITIN 2GM IV Q6H",
+        "Text": "Cefoxitin IV",
+        "Header": 0
+      },
+      {
+        "Row": 23,
+        "Column": 1,
+        "Item": "PSJZID ALT CEFPODOXIME 200MG PO Q12H",
+        "Text": "Cefpodoxime PO",
+        "Header": 0
+      },
+      {
+        "Row": 24,
+        "Column": 1,
+        "Item": "PSJIZID ALT CEFTAZIDIME 2GM IV Q8H",
+        "Text": "Ceftazidime IV",
+        "Header": 0
+      },
+      {
+        "Row": 25,
+        "Column": 1,
+        "Item": "PSJIZID ALT CEFTRIAXONE 125MG IM ONCE",
+        "Text": "Ceftriaxone IM",
+        "Header": 0
+      },
+      {
+        "Row": 26,
+        "Column": 1,
+        "Item": "PSJIZID ALT CEFTRIAXONE 1GM IV QDAY",
+        "Text": "Ceftriaxone IV",
+        "Header": 0
+      },
+      {
+        "Row": 27,
+        "Column": 1,
+        "Item": "PSJZID ALT CEFUROXIME 500MG PO BID",
+        "Text": "Cefuroxime PO",
+        "Header": 0
+      },
+      {
+        "Row": 28,
+        "Column": 1,
+        "Item": "PSJZID ALT CEPHALEXIN 500MG PO Q6H",
+        "Text": "Cephalexin PO",
+        "Header": 0
+      },
+      {
+        "Row": 29,
+        "Column": 1,
+        "Item": "PSJIZID ALT CIPROFLOXACIN 400MG IV Q12H",
+        "Text": "Ciprofloxacin IV",
+        "Header": 0
+      },
+      {
+        "Row": 30,
+        "Column": 1,
+        "Item": "PSJZID ALT CIPROFLOXACIN 500MG PO Q12H",
+        "Text": "Ciprofloxacin PO",
+        "Header": 0
+      },
+      {
+        "Row": 31,
+        "Column": 1,
+        "Item": "PSJZID ALT CLARITHROMYCIN 500MG PO BID",
+        "Text": "Clarithromycin PO",
+        "Header": 0
+      },
+      {
+        "Row": 32,
+        "Column": 1,
+        "Item": "PSJIZID ALT CLINDAMYCIN 600MG IV Q8H",
+        "Text": "Clindamycin IV",
+        "Header": 0
+      },
+      {
+        "Row": 33,
+        "Column": 1,
+        "Item": "PSJZID ALT CLINDAMYCIN 300MG PO Q6H",
+        "Text": "Clindamycin PO",
+        "Header": 0
+      },
+      {
+        "Row": 34,
+        "Column": 1,
+        "Item": "PSJZID ALT CLINDAMYCIN 2% CRM VAG APPLFUL QHS",
+        "Text": "Clindamycin Vaginal",
+        "Header": 0
+      },
+      {
+        "Row": 35,
+        "Column": 1,
+        "Item": "PSJZID ALT CLOTRIM 1% CRM TOP TO AFFECT AREA QID",
+        "Text": "Clotrimazole Topical",
+        "Header": 0
+      },
+      {
+        "Row": 36,
+        "Column": 1,
+        "Item": "PSJZID ALT CLOTRIMAZOLE 1% CRM VAG APPLFUL QHS",
+        "Text": "Clotrimazole Vaginal",
+        "Header": 0
+      },
+      {
+        "Row": 37,
+        "Column": 1,
+        "Item": "PSJZID ALT DICLOXACILLIN 500MG PO Q6H",
+        "Text": "Dicloxacillin PO",
+        "Header": 0
+      },
+      {
+        "Row": 38,
+        "Column": 1,
+        "Item": "PSJIZID ALT DOXYCYCLINE 100MG IV Q12H",
+        "Text": "Doxycycline IV",
+        "Header": 0
+      },
+      {
+        "Row": 39,
+        "Column": 1,
+        "Item": "PSJZID ALT DOXYCYCLINE 100MG PO BID",
+        "Text": "Doxycycline PO",
+        "Header": 0
+      },
+      {
+        "Row": 40,
+        "Column": 1,
+        "Item": "PSJIZID ALT ERTAPENEM 1GM IV Q24H",
+        "Text": "Ertapenem IV",
+        "Header": 0
+      },
+      {
+        "Row": 41,
+        "Column": 1,
+        "Item": "PSJIZID ALT ERYTHROMYCIN 500MG IV Q6H",
+        "Text": "Erythromycin IV",
+        "Header": 0
+      },
+      {
+        "Row": 42,
+        "Column": 1,
+        "Item": "PSJZID ALT ERYTHROMYCIN 0.5% OINT OPH AFFECT EYE QID",
+        "Text": "Erythromycin OPTH",
+        "Header": 0
+      },
+      {
+        "Row": 43,
+        "Column": 1,
+        "Item": "PSJZID ALT ERYTHROMYCIN 500MG PO FQID",
+        "Text": "Erythromycin PO",
+        "Header": 0
+      },
+      {
+        "Row": 44,
+        "Column": 1,
+        "Item": "PSJIZID ALT FLUCONAZOLE 400MG IV Q24H",
+        "Text": "Fluconazole IV",
+        "Header": 0
+      },
+      {
+        "Row": 45,
+        "Column": 1,
+        "Item": "PSJZID ALT FLUCONAZOLE 400MG PO QDAY",
+        "Text": "Fluconazole PO",
+        "Header": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1,
+        "Item": null,
+        "Text": "ALTERNATIVE ANTIMICROBIALS",
+        "Header": 1
+      },
+      {
+        "Row": 4,
+        "Column": 2,
+        "Item": "PSJIZID ALT GANCICLOVIR 500MG IV Q12H",
+        "Text": "Ganciclovir IV",
+        "Header": 0
+      },
+      {
+        "Row": 5,
+        "Column": 2,
+        "Item": "PSJIZID ALT GENTAMICIN 5MG/KG IV Q24H",
+        "Text": "Gentamicin IV",
+        "Header": 0
+      },
+      {
+        "Row": 6,
+        "Column": 2,
+        "Item": "PSJZID ALT ITRACONAZOLE 200MG PO QDAY",
+        "Text": "Itraconazole PO",
+        "Header": 0
+      },
+      {
+        "Row": 7,
+        "Column": 2,
+        "Item": "PSJIZID ALT LEVOFLOXACIN 500MG IV Q24H",
+        "Text": "Levofloxacin IV",
+        "Header": 0
+      },
+      {
+        "Row": 8,
+        "Column": 2,
+        "Item": "PSJZID ALT LEVOFLOX 500MG PO Q24H",
+        "Text": "Levofloxacin PO",
+        "Header": 0
+      },
+      {
+        "Row": 9,
+        "Column": 2,
+        "Item": "PSJIZID ALT MEROPENEM 1GM IV Q8H",
+        "Text": "Meropenem IV",
+        "Header": 0
+      },
+      {
+        "Row": 10,
+        "Column": 2,
+        "Item": "PSJIZID ALT METRONIDAZOLE 500MG IV Q6H",
+        "Text": "Metronidazole IV",
+        "Header": 0
+      },
+      {
+        "Row": 11,
+        "Column": 2,
+        "Item": "PSJZID ALT METRONIDAZOLE 500MG PO TID",
+        "Text": "Metronidazole PO",
+        "Header": 0
+      },
+      {
+        "Row": 12,
+        "Column": 2,
+        "Item": "PSJZID ALT METRONIDAZOLE 0.75% GEL VAG 1 APPLFUL QHS",
+        "Text": "Metronidazole Vaginal",
+        "Header": 0
+      },
+      {
+        "Row": 13,
+        "Column": 2,
+        "Item": "PSJZID ALT MINOCYCLINE 100MG PO BID",
+        "Text": "Minocycline PO",
+        "Header": 0
+      },
+      {
+        "Row": 14,
+        "Column": 2,
+        "Item": "PSJZID ALT MOXIFLOXACIN OPH 1 DROP TID",
+        "Text": "Moxifloxacin Ophthalmic",
+        "Header": 0
+      },
+      {
+        "Row": 15,
+        "Column": 2,
+        "Item": "PSJIZID ALT NAFCILLIN 2GM IV Q4H",
+        "Text": "Nafcillin IV",
+        "Header": 0
+      },
+      {
+        "Row": 16,
+        "Column": 2,
+        "Item": "PSJZID ALT NEOMYCIN 1000MG PO TID",
+        "Text": "Neomycin PO",
+        "Header": 0
+      },
+      {
+        "Row": 17,
+        "Column": 2,
+        "Item": "PSJZID ALT NITROFURANTOIN SA 100MG PO BID",
+        "Text": "Nitrofurantoin PO",
+        "Header": 0
+      },
+      {
+        "Row": 19,
+        "Column": 2,
+        "Item": "PSJZID ALT PENICILLIN 500MG PO QID",
+        "Text": "Penicillin PO",
+        "Header": 0
+      },
+      {
+        "Row": 20,
+        "Column": 2,
+        "Item": "PSJIZID ALT PENICILLIN 4MU IV Q4H",
+        "Text": "Penicillin IV",
+        "Header": 0
+      },
+      {
+        "Row": 21,
+        "Column": 2,
+        "Item": "PSJIZID ALT PIP/TAZO 3.375 GM IV Q6H",
+        "Text": "Piperacillin/Tazobactam IV",
+        "Header": 0
+      },
+      {
+        "Row": 22,
+        "Column": 2,
+        "Item": "PSJZID ALT PYRIMETHAMINE 75MG PO QDAY",
+        "Text": "Pyrimethamine PO",
+        "Header": 0
+      },
+      {
+        "Row": 23,
+        "Column": 2,
+        "Item": "PSJIZID ALT RIFAMPIN 300MG IV Q12H",
+        "Text": "Rifampin IV",
+        "Header": 0
+      },
+      {
+        "Row": 24,
+        "Column": 2,
+        "Item": "PSJZID ALT RIFAMPIN 300MG PO BID",
+        "Text": "Rifampin PO",
+        "Header": 0
+      },
+      {
+        "Row": 25,
+        "Column": 2,
+        "Item": "PSJZID ALT SULFACETAMIDE SOLN OPH 1 DRP QID",
+        "Text": "Sulfacetamide OPTH",
+        "Header": 0
+      },
+      {
+        "Row": 26,
+        "Column": 2,
+        "Item": "PSJZID ALT SULFADIAZINE 1000MG PO QID",
+        "Text": "Sulfadiazine PO",
+        "Header": 0
+      },
+      {
+        "Row": 27,
+        "Column": 2,
+        "Item": "PSJZID ALT TERBINAFINE 250MG PO QDAY",
+        "Text": "Terbinafine PO",
+        "Header": 0
+      },
+      {
+        "Row": 28,
+        "Column": 2,
+        "Item": "PSJZID ALT TERCONAZOLE 0.4% CRM VAG 1 APPLFUL QHS",
+        "Text": "Terconazole 0.4% Vaginal",
+        "Header": 0
+      },
+      {
+        "Row": 29,
+        "Column": 2,
+        "Item": "PSJIZID ALT TOBRAMYCIN 5 MG/KG IV Q24H",
+        "Text": "Tobramycin IV",
+        "Header": 0
+      },
+      {
+        "Row": 30,
+        "Column": 2,
+        "Item": "PSJZID ALT TRIMETHOPRIM 100MG Q12H",
+        "Text": "Trimethoprim PO",
+        "Header": 0
+      },
+      {
+        "Row": 31,
+        "Column": 2,
+        "Item": "PSJZID ALT TRIMETHOPRIM-SULFAMETHOXAZOLE 1DS TAB BID",
+        "Text": "Trimethoprim-sulfamethoxazole PO",
+        "Header": 0
+      },
+      {
+        "Row": 32,
+        "Column": 2,
+        "Item": "PSJIZID ALT TRIMETH/SULFA 5MG/KG IV Q12H",
+        "Text": "Trimethoprim-sulfamethoxazole IV",
+        "Header": 0
+      },
+      {
+        "Row": 33,
+        "Column": 2,
+        "Item": "PSJZID ALT VALACYCLOVIR 1000MG PO BID",
+        "Text": "Valacyclovir PO",
+        "Header": 0
+      },
+      {
+        "Row": 34,
+        "Column": 2,
+        "Item": "PSJZID ALT VANCOMYCIN SOLN 125MG PO Q6H",
+        "Text": "Vancomycin PO",
+        "Header": 0
+      },
+      {
+        "Row": 35,
+        "Column": 2,
+        "Item": "PSJIZID ALT VANCOMYCIN 1000MG IV Q12H",
+        "Text": "Vancomycin IV",
+        "Header": 0
+      },
+      {
+        "Row": 18,
+        "Column": 2,
+        "Item": null,
+        "Text": "Oseltamivir (see Influenza Menu)",
+        "Header": 0
+      }
+    ]
+  },
+
+  {
+    "Name": "ORZID GMENU ABX GENRL ALTERNATIVE DRUG",
+    "contents": [
+      {
+        "Row": 9,
+        "Column": 1,
+        "Item": "ORZ SET ABX ALLERGIC TO RECOMMENDED DRUGS",
+        "Text": "Allergic to recommended drug(s)",
+        "Header": 0
+      },
+      {
+        "Row": 10,
+        "Column": 1,
+        "Item": "ORZ SET ABX DECREASED RENAL CLR",
+        "Text": "Decreased renal clearance",
+        "Header": 0
+      },
+      {
+        "Row": 11,
+        "Column": 1,
+        "Item": "ORZ SET ABX LIVER SECRETORY",
+        "Text": "Liver secretory or metabolic impairment",
+        "Header": 0
+      },
+      {
+        "Row": 12,
+        "Column": 1,
+        "Item": "ORZ SET ABX DRUG INTERACTION",
+        "Text": "Drug interaction",
+        "Header": 0
+      },
+      {
+        "Row": 13,
+        "Column": 1,
+        "Item": "ORZ SET ABX MULTIPLE INFECTIONS",
+        "Text": "Patient has multiple infections requiring antimicrobials",
+        "Header": 0
+      },
+      {
+        "Row": 14,
+        "Column": 1,
+        "Item": "ORZ SET ABX ISOLATE NOT SUSC TO RECOMD DRUG",
+        "Text": "Adjust therapy based on antimicrobial susceptibility",
+        "Header": 0
+      },
+      {
+        "Row": 15,
+        "Column": 1,
+        "Item": "ORZ SET ABX OTHER ADVERSE DRUG AFFECT",
+        "Text": "Other adverse drug effect",
+        "Header": 0
+      },
+      {
+        "Row": 16,
+        "Column": 1,
+        "Item": "ORZ SET ABX ALTERNATIVE OTHER REASON",
+        "Text": "Other reason",
+        "Header": 0
+      },
+      {
+        "Row": 23,
+        "Column": 1,
+        "Item": "ORZ GTX ABX CDSS EMAIL",
+        "Text": "Please Click Here to Send comments to the CDSS team",
+        "Header": 0
+      },
+      {
+        "Row": 24,
+        "Column": 1,
+        "Item": "ORZID2 GMENU ABX DRUG ALLERGIES",
+        "Text": "Information about drug allergies",
+        "Header": 0
+      },
+      {
+        "Row": 3,
+        "Column": 1,
+        "Item": null,
+        "Text": "NEED AN ALERNATIVE ANTIMICROBIAL? ",
+        "Header": 1
+      },
+      {
+        "Row": 5,
+        "Column": 1,
+        "Item": null,
+        "Text": "If you cannot use the recommended antimicrobials or you believe another one ",
+        "Header": 0
+      },
+      {
+        "Row": 6,
+        "Column": 1,
+        "Item": null,
+        "Text": "would be better for your patient, you can order another drug. Please indicate ",
+        "Header": 0
+      },
+      {
+        "Row": 7,
+        "Column": 1,
+        "Item": null,
+        "Text": "the reason you need an alternative drug below.",
+        "Header": 0
+      },
+      {
+        "Row": 18,
+        "Column": 1,
+        "Item": null,
+        "Text": "Note: Alternative antimicrobial selections will be reviewed and we may contact",
+        "Header": 0
+      },
+      {
+        "Row": 19,
+        "Column": 1,
+        "Item": null,
+        "Text": "prescribers to learn more about situations that need alternatives, improve the",
+        "Header": 0
+      },
+      {
+        "Row": 20,
+        "Column": 1,
+        "Item": null,
+        "Text": "CDSS, and in some cases offer suggestions.",
+        "Header": 0
+      },
+      {
+        "Row": 22,
+        "Column": 1,
+        "Item": null,
+        "Text": "Clarification/Comments:",
+        "Header": 1
+      }
+    ]
+  },
+
+  {
+    "Name": "ORZID GMENU ER/UC ABX GENERAL INFORMATION ED",
+    "contents": [
+      {
+        "Row": 3,
+        "Column": 1,
+        "Item": "ORZID2 GMENU ABX HELP PAGE",
+        "Text": "Help and Additional Information Menu",
+        "Header": 0
+      },
+      {
+        "Row": 4,
+        "Column": 1,
+        "Item": "ORZ GMENU CONSULTS MAIN IP",
+        "Text": "Inpatient Consult Menu - place consults to specialty service",
+        "Header": 0
+      },
+      {
+        "Row": 5,
+        "Column": 1,
+        "Item": "ORZ GMENU CONSULTS MAIN OP",
+        "Text": "Outpatient Consult Menu - place consults to specialty service",
+        "Header": 0
+      },
+      {
+        "Row": 6,
+        "Column": 1,
+        "Item": "ORZID2 GMENU ABX SUSCEPTIBILITIES (ANTIBIOGRAM)",
+        "Text": "Antibiogram",
+        "Header": 0
+      },
+      {
+        "Row": 8,
+        "Column": 1,
+        "Item": "ORZID GMENU ABX GENRL ALTERNATIVE DRUG",
+        "Text": "Inpatient Alternative Antimicrobials to CDSS Recommendations - select here",
+        "Header": 0
+      },
+      {
+        "Row": 9,
+        "Column": 1,
+        "Item": "ORZID3 GMENU NEED AN ALT ABX MAIN",
+        "Text": "Outpatient Alternative Antimicrobials to CDSS Recommendations - select here",
+        "Header": 0
+      },
+      {
+        "Row": 10,
+        "Column": 1,
+        "Item": "ORZID2 GMENU ABX ADDITIONAL ASSISTANCE",
+        "Text": "Contact Information",
+        "Header": 0
+      },
+      {
+        "Row": 11,
+        "Column": 1,
+        "Item": "ORZID2 GMENU ABX DRUG INFO PAGE",
+        "Text": "Antimicrobial Information",
+        "Header": 0
+      },
+      {
+        "Row": 14,
+        "Column": 1,
+        "Item": "ORZID2 GMENU ABX IMPORTANT DRUG PROPERTIES",
+        "Text": "Important Drug Properties",
+        "Header": 0
+      },
+      {
+        "Row": 21,
+        "Column": 1,
+        "Item": "ORZID2 GMENU ABX COST INFORMATION",
+        "Text": "Antimicrobial Cost Information",
+        "Header": 0
+      },
+      {
+        "Row": 1,
+        "Column": 1,
+        "Item": null,
+        "Text": "GENERAL INFORMATION ",
+        "Header": 1
+      },
+      {
+        "Row": 13,
+        "Column": 1,
+        "Item": null,
+        "Text": "LEGEND ________________________________________________________________________ ",
+        "Header": 1
+      },
+      {
+        "Row": 15,
+        "Column": 1,
+        "Item": null,
+        "Text": "[DI] = Important interactions between antimicrobial and other drugs ",
+        "Header": 0
+      },
+      {
+        "Row": 16,
+        "Column": 1,
+        "Item": null,
+        "Text": "[H] = Hepatic excretion of antimicrobial",
+        "Header": 0
+      },
+      {
+        "Row": 17,
+        "Column": 1,
+        "Item": null,
+        "Text": "[M] = Minimal risk posed by antimicrobial ",
+        "Header": 0
+      },
+      {
+        "Row": 18,
+        "Column": 1,
+        "Item": null,
+        "Text": "[O] = Other important antimicrobial property",
+        "Header": 0
+      },
+      {
+        "Row": 19,
+        "Column": 1,
+        "Item": null,
+        "Text": "[R] = Renal excretion of antimicrobial",
+        "Header": 0
+      },
+      {
+        "Row": 22,
+        "Column": 1,
+        "Item": null,
+        "Text": "($) = <10 dollars per day ",
+        "Header": 0
+      },
+      {
+        "Row": 23,
+        "Column": 1,
+        "Item": null,
+        "Text": "($$) = 10-50 dollars per day",
+        "Header": 0
+      },
+      {
+        "Row": 24,
+        "Column": 1,
+        "Item": null,
+        "Text": "($$$) = 51-100 dollars per day",
+        "Header": 0
+      },
+      {
+        "Row": 25,
+        "Column": 1,
+        "Item": null,
+        "Text": "($$$$) = 101-400 dollars per day",
+        "Header": 0
+      },
+      {
+        "Row": 26,
+        "Column": 1,
+        "Item": null,
+        "Text": "($$$$$) = >400 dollars per day",
+        "Header": 0
+      },
+      {
+        "Row": 7,
+        "Column": 1,
+        "Item": "ORZID2 GMENU ABX BETA-LACTAM ALLERGY ASSESMENT",
+        "Text": "Beta-lactam Reaction Assessment",
+        "Header": 0
+      }
+    ]
+  }
+]
